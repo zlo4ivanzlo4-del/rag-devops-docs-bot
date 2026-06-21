@@ -71,7 +71,7 @@ docker exec -it rag-devops-docs-bot-api-1 pytest tests/
 ---
 
 ## Структура проекта
-
+**
 ├── app/
 │   ├── main.py          # FastAPI приложение
 │   ├── models.py        # Pydantic схемы
@@ -88,7 +88,7 @@ docker exec -it rag-devops-docs-bot-api-1 pytest tests/
 ├── docker-compose.yml   # оркестрация
 ├── requirements.txt     # зависимости
 └── README.md
-
+**
 ---
 
 ## Конфигурация
